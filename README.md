@@ -13,7 +13,7 @@ Simulador de Patos desarrollado en Java con Spring Boot. Permite crear diferente
 - Spring Boot
 - Lombok
 - Maven
-- H2 Database (por defecto)
+- MySQL
 
 ## Instalación
 1. Clona el repositorio:
