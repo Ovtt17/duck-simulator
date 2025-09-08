@@ -22,6 +22,6 @@ public class WoodenDuck extends Duck {
 
     @Override
     public String display() {
-        return "- Soy un Pato de Madera, mi nombre es " + this.getName() + " -";
+        return "- Soy un Pato de Madera, mi nombre es " + this.getName() + ". Solamente puedo flotar. -";
     }
 }
